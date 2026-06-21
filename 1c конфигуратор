@@ -1,0 +1,4 @@
+get init
+git remote add origin https://github.com
+git add .
+git commit -m "C:\Users\kasil\Desktop\1c\Конфигурация 1c.cf"
